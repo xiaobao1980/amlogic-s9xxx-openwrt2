@@ -36,6 +36,7 @@ on:
           - qemu
           - r66s
           - r68s
+          - lubancat-2n
           - jp-tvbox
           - watermelon-pi
           - rock5b
