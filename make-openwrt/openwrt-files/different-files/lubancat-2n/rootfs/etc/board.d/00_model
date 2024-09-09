@@ -5,8 +5,8 @@
 
 board_config_update
 
-ucidef_set_board_id "hlink,h68k"
-ucidef_set_model_name "Hlink H68K"
+ucidef_set_board_id "lubancat,2n"
+ucidef_set_model_name "lubancat-2n"
 
 board_config_flush
 
