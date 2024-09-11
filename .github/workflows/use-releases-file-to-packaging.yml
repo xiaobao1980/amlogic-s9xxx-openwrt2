@@ -65,6 +65,7 @@ on:
           - panther-x2
           - r66s
           - r68s
+          - lubancat-2n
           - renegade-rk3328
           - rk3318-box
           - rock5b
@@ -351,9 +352,9 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           body: |
             ### OpenWrt Image information
-            - Default IP: 192.168.1.1
+            - Default IP: 192.168.60.1
             - Default username: root
-            - Default password: password
+            - Default password: 123456789
             - Default WIFI name: OpenWrt
             - Default WIFI password: none
             ### Install to EMMC
