@@ -32,6 +32,7 @@ on:
           - h88k
           - h88k-v3
           - l1pro
+          - lubancat-2n
           - photonicat
           - qemu
           - r66s
